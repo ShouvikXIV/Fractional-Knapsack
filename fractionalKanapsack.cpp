@@ -13,7 +13,7 @@ int main()
     c = 0;
     cin>>w; //weight of the bag
     int n;
-    cin>>n; //objects
+    cin>>n; //number of objects
     pair<int,int> arr[n];
     for(int i = 0;i<n;i++)
     {
